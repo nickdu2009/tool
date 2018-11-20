@@ -16,7 +16,7 @@ port: 4222
 http_port: 8222
 
 cluster {
-    port: 5222
+    port: 6222
 }
 END
 
